@@ -5,9 +5,9 @@ This quick and easy-to-use website forum provides numerous guides for additional
 # 📭 Games
 
 Forester Simulation is a captivating game where you step into the shoes of a forester. 
-You receive various tasks that range from managing forest resources to protecting wildlife. 
-Completing these tasks earns you money, which you can use to upgrade your equipment and enhance your character's skills. 
-As you progress, you can develop your character, unlocking new abilities and improving efficiency in managing your forest.
+- You receive various tasks that range from managing forest resources to protecting wildlife. 
+- Completing these tasks earns you money, which you can use to upgrade your equipment and enhance your character's skills. 
+- As you progress, you can develop your character, unlocking new abilities and improving efficiency in managing your forest.
 
 # 📁 Translations
 
