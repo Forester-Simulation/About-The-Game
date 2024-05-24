@@ -17,7 +17,7 @@ The game is available in English... We have made efforts to enable each of you t
 - In the opened window, simply navigate to the `Installed Files` section and click on `Browse`.
 
 This will open the folder containing the installed Forester Simulation game.
-- Locate the folder named `data'` enter it, and open the file `translate.json`.
+- Locate the folder named `data` enter it, and open the file `translate.json`.
 
 You can input the complete translation of the game in this file!
 
